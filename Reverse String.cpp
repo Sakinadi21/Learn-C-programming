@@ -22,7 +22,7 @@ void reverseString(char* str) {
 }
 
 int main() {
-    char str[] = "Mashrafi Uddin";
+    char str[] = "Sakiba Belal";
 
     printf("Original string: %s\n", str);
 
